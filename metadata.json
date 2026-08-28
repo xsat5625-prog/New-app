@@ -1,0 +1,6 @@
+{
+  "name": "AI Android App Builder",
+  "description": "Plan your Android app and generate a ready-to-use AI prompt for Google AI Studio with no coding required.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
